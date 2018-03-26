@@ -4,7 +4,7 @@ Please consider using a virtual enviroment to install all dependencies and avoid
 This app was created using Python 3. Please install Python 3 as needed.  
 This app also uses the requests library. In Python 3, requests needs to be installed via "pip install requests".  
 
-## Usage:
+## Usage
 (This app was created and tested only in Windows 10)   
 Please navigate to the root folder of the app.  
 Start the virtual environment as needed.  
