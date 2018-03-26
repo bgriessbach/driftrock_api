@@ -1,4 +1,4 @@
-##Installation instructions
+## Installation instructions
 Please consider using a virtual enviroment to install all dependencies and avoid dependency conflicts in other apps. (see http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 This app was created using Python 3. Please install Python 3 as needed.  
 This app also uses the requests library. In Python 3, requests needs to be installed via "pip install requests".  
