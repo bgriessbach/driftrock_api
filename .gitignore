@@ -1,0 +1,12 @@
+# IDE files
+.idea
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pyc
